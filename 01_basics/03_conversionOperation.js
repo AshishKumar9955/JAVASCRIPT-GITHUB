@@ -9,7 +9,7 @@ let valueInNumber = Number(score)
 // console.log(typeof valueInNumber);
 // console.log(valueInNumber);
 
-
+// convert
 // "33" => 33
 // "33abc" => NaN
 // true =>1
@@ -55,7 +55,7 @@ let str3 = str1 + str2
 // console.log( "1" + 2 + 2);
 // console.log( 1 + 2 + "2");
 // console.log((3 + 4) * 5 % 3);
-
+                                        // ECMAScript site name
 // console.log(true); // true
 // console.log(+true); // 1
 // console.log(+""); // 0
