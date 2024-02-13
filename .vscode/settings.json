@@ -1,7 +1,10 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "git.enabled": true
 =======
+=======
+>>>>>>> c27ebad (03_arrow files added)
     "git.enabled": true,
     "editor.fontSize": 17,
     "editor.tabSize": 4
